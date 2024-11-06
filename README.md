@@ -2,7 +2,7 @@
 
 **Manjunath Sirur**
 
-**Email:** Manjunathsirur1994@gmail.com | Phone: +919738307623
+**Email:** Manjunathsirur1994@gmail.com           | Phone: +919738307623
 
 **GitHub:** https://github.com/manjunathsirur1994 |** LinkedIn:** https://www.linkedin.com/in/manjunathsirur/
 
