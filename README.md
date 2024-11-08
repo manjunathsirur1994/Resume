@@ -13,7 +13,7 @@
 
 **Professional Experience
 Overall Experience**
-AI / GenAI / ML Lead with over 8 years of comprehensive experience in the IT industry, specializing in developing and implementing linear to advanced AI/ML solutions across FinTech/BFSI | Home services | and Healthcare domains. Proficient in Python, Pytorch, and various ML frameworks, with a strong background in leading projects and teams to drive innovation and business value.
+AI | GenAI | ML Lead with over 8 years of comprehensive experience in the IT industry, specializing in developing and implementing linear to advanced AI/ML solutions across FinTech/BFSI | Home services | and Healthcare domains. Proficient in Python, Pytorch, and various ML frameworks, with a strong background in leading projects and teams to drive innovation and business value.
 
 **Technical skills**
 **Programming languages:**	Python | SQL
@@ -29,9 +29,11 @@ Duration	Organization	Designation**
 01-04-2016 - 01-06-2021	TriHealth	Machine learning developer
 
 **In-depth Technical skills and experience:**
+**Regression:** Linear, Multiple, Ridge, Lasso, ElasticNet, Polynomial,  
 **Data:** Data cleansing, EDA, and visualization [ matplotlib, seaborn, plotly ]
 **Regression:** Linear, multiple, ridge, lasso, polynomial,  
-
+**OpenAI:** OpenAI api calling [chat completion], function calling, chatbot building.
+**Langchain:** zero-shot prompting, few-show prompting, 
 
 **Domain-Specific Experience**
 **•	Enterprise Chatbot (2024 January – Till date | Zapcom | NBLY | Saltie) (AI/ML Lead)**
