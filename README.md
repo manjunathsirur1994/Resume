@@ -17,10 +17,13 @@ AI | GenAI | ML Lead with over 8 years of comprehensive experience in the IT ind
 
 **Technical skills**
 **Programming languages:**	Python | SQL
+
 **Web Technologies:**	Flask | Django
+
 **Frameworks:**	Hugging face | Pytorch | Scikit Learn | Numpy | Pandas | Fastai | Langchain | TensorFlow | StreamLit | Gradio 
 		
 **Database:**	MySQL | PostgreSQL | Mongo DB	
+
 **Tools/Technology:**	Jupyter | GIT | VSCode | Azure devops | Bitbucket | GitHub | Langflow | AWS services | Azure services | GCP | JIRA	
 
 **Work History
