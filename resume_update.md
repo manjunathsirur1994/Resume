@@ -19,7 +19,7 @@ Over 8 years of comprehensive experience in the IT industry, specializing in dev
 
 ---
 
-## 🛠 Tools | Language | Framework | Platforms
+## 🛠 Tools | Languages | Frameworks | Platforms
 
 **Programming Languages**  
 Python | SQL
