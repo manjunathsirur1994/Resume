@@ -1,6 +1,4 @@
 # Manjunath Sirur
-+919738307623
-
 
 **AI | GenAI | ML Lead**  
 Over 8 years of comprehensive experience in the IT industry, specializing in developing and implementing advanced AI/ML solutions across FinTech/BFSI, Home Services, and Healthcare domains.
@@ -8,7 +6,7 @@ Over 8 years of comprehensive experience in the IT industry, specializing in dev
 - **Email:** [manjunathsirur1994@gmail.com](mailto:manjunathsirur1994@gmail.com)
 - **GitHub:** [github.com/manjunathsirur1994](https://github.com/manjunathsirur1994)
 - **LinkedIn:** [linkedin.com/in/manjunathsirur](https://www.linkedin.com/in/manjunathsirur/)
-
+- **Phone:** +919738307623
 ---
 
 ## ⚙️ Skills - Machine Learning | Deep Learning | GenAI  
