@@ -9,7 +9,17 @@ Over 8 years of comprehensive experience in the IT industry, specializing in dev
 
 ---
 
-## 🛠 Technical Skills
+## ⚙️ In-Depth Technical Skills
+
+- **Data Processing:** Data cleansing, missing values imputation, feature engineering, EDA, and visualization using Matplotlib, Seaborn, and Plotly.
+- **Regression Models:** Linear, Multiple LR, Ridge, Lasso, ElasticNet, Polynomial, and LR with ANN.
+- **Classification Models:** Logistic Regression, KNN.
+- **OpenAI Integration:** API calling for chat completions, function calling, and chatbot building.
+- **Langchain:** Experience with zero-shot and few-shot prompting for various NLP tasks.
+
+---
+
+## 🛠 Tools | Language | Framework | Platforms
 
 **Programming Languages**  
 Python | SQL
@@ -25,16 +35,6 @@ MySQL | PostgreSQL | MongoDB
 
 **Tools & Platforms**  
 Jupyter | GIT | VSCode | Azure DevOps | Bitbucket | GitHub | Langflow | AWS | Azure | GCP | JIRA
-
----
-
-## ⚙️ In-Depth Technical Skills
-
-- **Data Processing:** Data cleansing, missing values imputation, feature engineering, EDA, and visualization using Matplotlib, Seaborn, and Plotly.
-- **Regression Models:** Linear, Multiple LR, Ridge, Lasso, ElasticNet, Polynomial, and LR with ANN.
-- **Classification Models:** Logistic Regression, KNN.
-- **OpenAI Integration:** API calling for chat completions, function calling, and chatbot building.
-- **Langchain:** Experience with zero-shot and few-shot prompting for various NLP tasks.
 
 ---
 
