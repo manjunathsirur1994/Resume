@@ -29,10 +29,11 @@ Duration	Organization	Designation**
 01-04-2016 - 01-06-2021	TriHealth	Machine learning developer
 
 **In-depth Technical skills and experience:**
-**Regression:** Linear, Multiple, Ridge, Lasso, ElasticNet, Polynomial,  
-**Data:** Data cleansing, EDA, and visualization [ matplotlib, seaborn, plotly ]
-**Regression:** Linear, multiple, ridge, lasso, polynomial,  
-**OpenAI:** OpenAI api calling [chat completion], function calling, chatbot building.
+
+**Data:** Data cleansing, Missing values imputations, Feature engineering, EDA, and visualizations [ matplotlib, seaborn, plotly ].
+**Regression:** Linear, multiple LR, ridge, lasso, ElasticNet, Polynomial, LR with ANN, 
+**Logistic Regression:** LR classification, KNN, 
+**OpenAI:** OpenAI api calling [chat completion], function calling, chatbot building,
 **Langchain:** zero-shot prompting, few-show prompting, 
 
 **Domain-Specific Experience**
