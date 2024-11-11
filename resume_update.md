@@ -71,9 +71,9 @@ o	Project Overview: This project forecasts NDVI (Normalized Difference Vegetatio
 
 o	Key Responsibilities: 
 
-	Data Acquisition: Utilizes Google Earth Engine to download MODIS13Q1 raster data.
+  	Data Acquisition: Utilizes Google Earth Engine to download MODIS13Q1 raster data.
 
-	Data Processing: Converts raster data into readable dataframes for further analysis.
+  	Data Processing: Converts raster data into readable dataframes for further analysis.
 
 	Modelling: Employs various machine learning, deep learning, and statistical models to forecast NDVI values.
 
