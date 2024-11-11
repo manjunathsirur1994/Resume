@@ -9,7 +9,7 @@ Over 8 years of comprehensive experience in the IT industry, specializing in dev
 
 ---
 
-## ⚙️ In-Depth Technical Skills
+## ⚙️ Skills - Machine Learning | Deep Learning | GenAI  
 
 - **Data Processing:** Data cleansing, missing values imputation, feature engineering, EDA, and visualization using Matplotlib, Seaborn, and Plotly.
 - **Regression Models:** Linear, Multiple LR, Ridge, Lasso, ElasticNet, Polynomial, and LR with ANN.
