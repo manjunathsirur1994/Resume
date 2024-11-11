@@ -16,20 +16,31 @@ Overall Experience**
 AI | GenAI | ML Lead with over 8 years of comprehensive experience in the IT industry, specializing in developing and implementing linear to advanced AI/ML solutions across FinTech/BFSI | Home services | and Healthcare domains. Proficient in Python, Pytorch, and various ML frameworks, with a strong background in leading projects and teams to drive innovation and business value.
 
 **Technical skills**
-**Programming languages:**	Python | SQL
+**Programming languages:**	
+Python | SQL
 
-**Web Technologies:**	Flask | Django
 
-**Frameworks:**	Hugging face | Pytorch | Scikit Learn | Numpy | Pandas | Fastai | Langchain | TensorFlow | StreamLit | Gradio 
-		
-**Database:**	MySQL | PostgreSQL | Mongo DB	
+**Web Technologies:**	
+Flask | Django
 
-**Tools/Technology:**	Jupyter | GIT | VSCode | Azure devops | Bitbucket | GitHub | Langflow | AWS services | Azure services | GCP | JIRA	
 
-**Work History
-Duration	Organization	Designation**
+**Frameworks:**	
+Hugging face | Pytorch | Scikit Learn | Numpy | Pandas | Fastai | Langchain | TensorFlow | StreamLit | Gradio 
+
+  
+**Database:**	
+MySQL | PostgreSQL | Mongo DB	
+
+
+**Tools/Technology:**	
+Jupyter | GIT | VSCode | Azure devops | Bitbucket | GitHub | Langflow | AWS services | Azure services | GCP | JIRA	
+
+
+**Work History**
 01-10-2021 - Till date	Zapcom	AI/ML Lead
+
 01-04-2016 - 01-06-2021	TriHealth	Machine learning developer
+
 
 **In-depth Technical skills and experience:**
 
