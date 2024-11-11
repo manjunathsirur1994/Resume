@@ -1,6 +1,7 @@
 # Manjunath Sirur
 +919738307623
 
+
 **AI | GenAI | ML Lead**  
 Over 8 years of comprehensive experience in the IT industry, specializing in developing and implementing advanced AI/ML solutions across FinTech/BFSI, Home Services, and Healthcare domains.
 
