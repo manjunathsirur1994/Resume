@@ -14,6 +14,7 @@ Over 8 years of comprehensive experience in the IT industry, specializing in dev
 - **Data Processing:** Data cleansing, missing values imputation, feature engineering, EDA, and visualization using Matplotlib, Seaborn, and Plotly.
 - **Regression Models:** Linear, Multiple LR, Ridge, Lasso, ElasticNet, Polynomial, and LR with ANN.
 - **Classification Models:** Logistic Regression, KNN.
+- **Decision Trees:** Sklearn DT, Cost-Complexity Pruning, 
 - **OpenAI Integration:** API calling for chat completions, function calling, and chatbot building.
 - **Langchain:** Experience with zero-shot and few-shot prompting for various NLP tasks.
 
