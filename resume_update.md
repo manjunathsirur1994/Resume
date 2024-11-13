@@ -1,6 +1,6 @@
 # Manjunath Sirur
 
-**Data Science Lead**   
+**Data Science Lead at ZapCom.ai**   
 Over 8 years of comprehensive experience in the IT industry, specializing in developing and implementing advanced AI/ML and GenAI solutions across FinTech/BFSI, Home Services, and Healthcare domains.
 
 - **Email:** [manjunathsirur1994@gmail.com](mailto:manjunathsirur1994@gmail.com)
