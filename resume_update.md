@@ -42,7 +42,7 @@ Jupyter | GIT | VSCode | Azure DevOps | Bitbucket | GitHub | Langflow | AWS | Az
 
 ### AI/ML Lead  
 **Zapcom**  
-_01-10-2021 - Present_
+_10-06-2021 - Present_
 
 - Lead development of advanced chatbot systems with flexible architecture for integrating multiple LLMs (OpenAI, Claude, LLaMA).
 - Created customizable chat widgets, a drag-and-drop chat flow design feature, and real-time analytics using Amazon QuickSight.
