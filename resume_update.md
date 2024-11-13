@@ -1,7 +1,7 @@
 # Manjunath Sirur
 
-**Data Science Lead** [AI|ML|GenAI]  
-Over 8 years of comprehensive experience in the IT industry, specializing in developing and implementing advanced AI/ML solutions across FinTech/BFSI, Home Services, and Healthcare domains.
+**Data Science Lead**   
+Over 8 years of comprehensive experience in the IT industry, specializing in developing and implementing advanced AI/ML and GenAI solutions across FinTech/BFSI, Home Services, and Healthcare domains.
 
 - **Email:** [manjunathsirur1994@gmail.com](mailto:manjunathsirur1994@gmail.com)
 - **GitHub:** [github.com/manjunathsirur1994](https://github.com/manjunathsirur1994)
