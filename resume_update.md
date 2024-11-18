@@ -12,7 +12,8 @@ Over 8 years of comprehensive experience in the IT industry, specializing in dev
 ## ⚙️ Skills - Machine Learning | Deep Learning | GenAI  
 
 - **Data Processing:** Data cleansing, missing values imputation, feature engineering, EDA, and visualization using Matplotlib, Seaborn, and Plotly.
-      **Pipeline and GridSearchCV:** Pipeline | Pipeline Chaining | Composite estimators, GridSearchCV, 
+
+     **Pipeline and GridSearchCV:** Pipeline | Pipeline Chaining | Composite estimators, GridSearchCV, 
 - **Regression Models:** Linear, Multiple LR, Ridge, Lasso, ElasticNet, Polynomial, and LR with ANN.
 - **Classification Models:** Logistic Regression, KNN.
 - **Decision Trees:** Sklearn DT, Cost-Complexity Pruning, 
